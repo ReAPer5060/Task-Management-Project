@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+.navbar-brand {
+  font-weight: bold;
+  color:red
+}
+.navbar-nav .nav-link {
+  margin-right: 15px;
+  font-size: 16px;
+}
+element.style {
+  color: yellow;
+}
+a.nav-link{color:rgb(155, 74, 138);}
+.container-fluid {
+  background-image: url(../../public/task.jpg);
+  width: 100%;
+  height:auto;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin-top: -15px;
+  
+}
+
